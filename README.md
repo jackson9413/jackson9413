@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jiaqi (Jack) Cheng.
 - 👀 I’m interested in programming, data science, cooking, traveling, reading, photographing,etc.
 - 💞️ I’m looking to collaborate on data science projects to solve real-life problems. 
-- 📫 How to reach me Email:jqcheng9413@yahoo.com
+- 📫 How to reach me Email: jqcheng9413@yahoo.com
 - [CV](https://jackson9413.github.io/cv/)
 
 <!---
